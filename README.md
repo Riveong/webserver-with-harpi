@@ -1,3 +1,4 @@
+#cara membuat server menggunakan hapi
 # 1. npm install @hapi/hapi
 2. buat server.js dan routes.js
 3. masukan : 
